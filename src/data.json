@@ -1,0 +1,619 @@
+[
+  {
+    "id": 1,
+    "question": "The Preamble of the Indian Constitution is borrowed from?",
+    "options": [
+      "Constitution of UK",
+      "Constitution of USA",
+      "Constitution of USSR",
+      "Constitution of France"
+    ],
+    "answer": "Constitution of USA",
+    "explanation": "The framers of the Indian Constitution borrowed the concept of the Preamble from the Constitution of the USA."
+  },
+  {
+    "id": 2,
+    "question": "The Preamble declares India as:",
+    "options": [
+      "Sovereign, Democratic, Republic",
+      "Sovereign, Socialist, Secular, Democratic, Republic",
+      "Secular, Democratic, Republic",
+      "Sovereign, Socialist, Democratic"
+    ],
+    "answer": "Sovereign, Socialist, Secular, Democratic, Republic",
+    "explanation": "The Preamble declares India to be a Sovereign, Socialist, Secular, Democratic, and Republic nation."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following terms were added to the Preamble by the 42nd Amendment, 1976?",
+    "options": [
+      "Socialist, Secular and Integrity",
+      "Sovereign, Socialist and Secular",
+      "Liberty, Equality and Fraternity",
+      "Justice, Liberty and Equality"
+    ],
+    "answer": "Socialist, Secular and Integrity",
+    "explanation": "The 42nd Constitutional Amendment Act of 1976 added three new words: Socialist, Secular, and Integrity to the Preamble."
+  },
+  {
+    "id": 4,
+    "question": "The words 'We, the People of India' signify:",
+    "options": [
+      "Absence of Monarchy",
+      "Power of the Parliament",
+      "The ultimate sovereignty resides with the people of India",
+      "Both A and C"
+    ],
+    "answer": "Absence of Monarchy",
+    "explanation": "It signifies that ultimate sovereignty rests with the people of India, indicating the absence of monarchy."
+  },
+  {
+    "id": 5,
+    "question": "The term 'Liberty, Equality and Fraternity' in the Preamble is borrowed from:",
+    "options": [
+      "Russian Constitution",
+      "French Constitution",
+      "Irish Constitution",
+      "US Constitution"
+    ],
+    "answer": "French Constitution",
+    "explanation": "The ideals of Liberty, Equality, and Fraternity in the Preamble are borrowed from the French Constitution (French Revolution)."
+  },
+  {
+    "id": 6,
+    "question": "The 'Republic' in the Preamble means:",
+    "options": [
+      "India has an elected head of state (the President) rather than a hereditary monarch, and all public offices are open to every citizen without discrimination.",
+      "India has a parliamentary system",
+      "India has an independent judiciary",
+      "India has a rigid constitution"
+    ],
+    "answer": "India has an elected head of state (the President) rather than a hereditary monarch, and all public offices are open to every citizen without discrimination.",
+    "explanation": "A republic means India has an elected head of state (the President) rather than a hereditary monarch, and public offices are open to all without discrimination."
+  },
+  {
+    "id": 7,
+    "question": "The Preamble was adopted by the Constituent Assembly on:",
+    "options": [
+      "26 January 1950",
+      "26 November 1949",
+      "15 August 1947",
+      "9 December 1946"
+    ],
+    "answer": "26 November 1949",
+    "explanation": "The Preamble and the Constitution as a whole were adopted by the Constituent Assembly on 26 November 1949."
+  },
+  {
+    "id": 8,
+    "question": "'Sovereign' in the Preamble means:",
+    "options": [
+      "India is dependent on the UN",
+      "India is an independent, supreme authority, not subject to the control of any external power or foreign nation.",
+      "India is a dominion of the British Crown",
+      "India can only make internal decisions"
+    ],
+    "answer": "India is an independent, supreme authority, not subject to the control of any external power or foreign nation.",
+    "explanation": "Sovereign means India is an independent nation, not a dominion or dependency of any other nation."
+  },
+  {
+    "id": 9,
+    "question": "In 1946 Stafford Cripps proposed which mission?",
+    "options": [
+      "Cabinet Mission",
+      "Cripps Mission",
+      "Simon Commission",
+      "Mountbatten Plan"
+    ],
+    "answer": "Cabinet Mission",
+    "explanation": "Sir Stafford Cripps was part of the Cabinet Mission of 1946, which was sent to India to transfer power to Indian leadership."
+  },
+  {
+    "id": 10,
+    "question": "PRSTV stands for:",
+    "options": [
+      "Proportional representation with a single transferable vote (PR-STV)",
+      "Primary representation system with total votes",
+      "Proportional representation system of total voters",
+      "Public representation with single transferable vote"
+    ],
+    "answer": "Proportional representation with a single transferable vote (PR-STV)",
+    "explanation": "PR-STV stands for Proportional representation with a single transferable vote, used in elections like that of the President."
+  },
+  {
+    "id": 11,
+    "question": "Advising members of drafting committee were officers of?",
+    "options": [
+      "The British Parliament",
+      "the Constituent Assembly of India.",
+      "The Indian National Congress",
+      "The Supreme Court"
+    ],
+    "answer": "the Constituent Assembly of India.",
+    "explanation": "The advising members of the Drafting Committee were officers of the Constituent Assembly of India."
+  },
+  {
+    "id": 12,
+    "question": "Parliamentary form of government means:",
+    "options": [
+      "President is the real executive",
+      "a democratic system where the executive branch (Prime Minister and Cabinet) derives its legitimacy from and is accountable to the legislature (Parliament)",
+      "Judiciary is accountable to the legislature",
+      "State governments are independent of the center"
+    ],
+    "answer": "a democratic system where the executive branch (Prime Minister and Cabinet) derives its legitimacy from and is accountable to the legislature (Parliament)",
+    "explanation": "In a parliamentary system, the executive branch (PM and Cabinet) is fundamentally accountable to the legislature (Parliament)."
+  },
+  {
+    "id": 13,
+    "question": "The term 'Secular' in the Preamble means:",
+    "options": [
+      "State is anti-religion",
+      "State has an official religion",
+      "the State maintains neutrality, having no official religion, and treats all religions with equal respect, protection, and support",
+      "State promotes majority religion"
+    ],
+    "answer": "the State maintains neutrality, having no official religion, and treats all religions with equal respect, protection, and support",
+    "explanation": "Secular implies the state maintains neutrality, having no official religion, and treats all religions equally."
+  },
+  {
+    "id": 14,
+    "question": "The Preamble has been amended only:",
+    "options": [
+      "twice",
+      "once, through the 42nd Constitutional Amendment Act of 1976",
+      "never",
+      "thrice"
+    ],
+    "answer": "once, through the 42nd Constitutional Amendment Act of 1976",
+    "explanation": "The Preamble has been amended only once by the 42nd Constitutional Amendment Act of 1976."
+  },
+  {
+    "id": 15,
+    "question": "The Indian Constitution is the which kind of constitution written or oral?",
+    "options": ["written", "oral", "unwritten", "partially written"],
+    "answer": "written",
+    "explanation": "The Indian Constitution is a written constitution and is the lengthiest written constitution in the world."
+  },
+  {
+    "id": 16,
+    "question": "Originally, the Indian Constitution contained how many Articles?",
+    "options": ["395", "448", "470", "315"],
+    "answer": "395",
+    "explanation": "Originally, in 1949, the Indian Constitution contained 395 Articles divided into 22 Parts and 8 Schedules."
+  },
+  {
+    "id": 17,
+    "question": "Originally, the Indian Constitution had how many Schedules?",
+    "options": ["12", "10", "8", "9"],
+    "answer": "8",
+    "explanation": "Originally, the Indian Constitution had 8 Schedules. Currently, it has 12."
+  },
+  {
+    "id": 18,
+    "question": "At present, how many Schedules are there in the Constitution?",
+    "options": ["8", "10", "12", "14"],
+    "answer": "12",
+    "explanation": "Currently, the Indian Constitution contains 12 Schedules."
+  },
+  {
+    "id": 19,
+    "question": "The Indian Constitution is a blend of:",
+    "options": [
+      "rigidity and flexibility",
+      "only rigidity",
+      "only flexibility",
+      "unitary and autocratic"
+    ],
+    "answer": "rigidity and flexibility",
+    "explanation": "It is a blend, as some parts can be amended easily (flexibility) while others require a special majority (rigidity)."
+  },
+  {
+    "id": 20,
+    "question": "India is described as a 'Union of States' because:",
+    "options": [
+      "States formed the federation by agreement",
+      "India is described as a “Union of States” under Article 1 of the Constitution because the Indian federation is not the result of an agreement among states, and states have no right to secede.",
+      "States can secede at any time",
+      "It is a true confederation"
+    ],
+    "answer": "India is described as a “Union of States” under Article 1 of the Constitution because the Indian federation is not the result of an agreement among states, and states have no right to secede.",
+    "explanation": "Under Article 1, India is a 'Union of States' rather than a 'Federation of States', meaning states cannot secede."
+  },
+  {
+    "id": 21,
+    "question": "The concept of Fundamental Duties was borrowed from:",
+    "options": [
+      "USA",
+      "UK",
+      "constitution of the Union of Soviet Socialist Republics (USSR)",
+      "Japan"
+    ],
+    "answer": "constitution of the Union of Soviet Socialist Republics (USSR)",
+    "explanation": "The Fundamental Duties were incorporated upon the recommendation of the Swaran Singh Committee and borrowed from the USSR."
+  },
+  {
+    "id": 22,
+    "question": "The concept of Judicial Review in the Constitution is borrowed from:",
+    "options": [
+      "UK",
+      "from the constitution of the USA",
+      "Canada",
+      "Australia"
+    ],
+    "answer": "from the constitution of the USA",
+    "explanation": "The power of judicial review and the independence of judiciary are borrowed from the US Constitution."
+  },
+  {
+    "id": 23,
+    "question": "The federal system in India is described as:",
+    "options": [
+      "strictly unitary",
+      "quasi-federal (a blend of federal and unitary features), a 'Union of States' (per Article 1), and often characterized as 'cooperative federalism' or a 'federation with a strong centralizing tendency'. It combines a constitutional division of powers with a unitary bias.",
+      "strictly federal",
+      "confederal"
+    ],
+    "answer": "quasi-federal (a blend of federal and unitary features), a 'Union of States' (per Article 1), and often characterized as 'cooperative federalism' or a 'federation with a strong centralizing tendency'. It combines a constitutional division of powers with a unitary bias.",
+    "explanation": "It's described as quasi-federal (a blend of federal and unitary features), often characterized as 'cooperative federalism'."
+  },
+  {
+    "id": 24,
+    "question": "The Parliamentary system in India ensures:",
+    "options": [
+      "separation of executive and legislature",
+      "the accountability of the executive to the legislature (specifically the Lok Sabha), collective responsibility of the Council of Ministers, and prevents despotism through checks and balances",
+      "supremacy of the President",
+      "dictatorship of the Prime Minister"
+    ],
+    "answer": "the accountability of the executive to the legislature (specifically the Lok Sabha), collective responsibility of the Council of Ministers, and prevents despotism through checks and balances",
+    "explanation": "It ensures the accountability of the executive to the legislature (specifically the Lok Sabha) and prevents despotism."
+  },
+  {
+    "id": 25,
+    "question": "The concept of 'Fundamental Rights' is borrowed from:",
+    "options": [
+      "Constitution of USA",
+      "Constitution of USSR",
+      "Irish Constitution",
+      "British Constitution"
+    ],
+    "answer": "Constitution of USA",
+    "explanation": "The Fundamental Rights are detailed in Part III of the Constitution and were inspired by the Bill of Rights of the USA."
+  },
+  {
+    "id": 26,
+    "question": "The Indian Constitution describes India as a 'Secular State' in which amendment?",
+    "options": [
+      "42nd Constitutional Amendment Act of 1976",
+      "44th Amendment of 1978",
+      "1st Amendment of 1951",
+      "73rd Amendment of 1992"
+    ],
+    "answer": "42nd Constitutional Amendment Act of 1976",
+    "explanation": "The term 'Secular' was explicitly added to the Preamble by the 42nd Constitutional Amendment Act of 1976."
+  },
+  {
+    "id": 27,
+    "question": "The feature of 'Single integrated judiciary' is borrowed from:",
+    "options": [
+      "Government of India Act of 1935",
+      "US Constitution",
+      "British Constitution",
+      "Irish Constitution"
+    ],
+    "answer": "Government of India Act of 1935",
+    "explanation": "The single integrated judicial system (Supreme Court at the top, High Courts below) was adopted from the Government of India Act of 1935."
+  },
+  {
+    "id": 28,
+    "question": "Bicameralism at the Centre refers to?",
+    "options": [
+      "existence of two prime ministers",
+      "existence of two houses of parliament in the national legislature.",
+      "existence of state and central governments",
+      "division of supreme court into two branches"
+    ],
+    "answer": "existence of two houses of parliament in the national legislature.",
+    "explanation": "Bicameralism refers to having two houses in the Parliament: Lok Sabha (Lower House) and Rajya Sabha (Upper House)."
+  },
+  {
+    "id": 29,
+    "question": "The idea of a Constituent Assembly for India was first suggested by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "M.N.Roy",
+      "B.R. Ambedkar"
+    ],
+    "answer": "M.N.Roy",
+    "explanation": "M.N. Roy, a pioneer of the communist movement in India, first proposed the idea of a Constituent Assembly in 1934."
+  },
+  {
+    "id": 30,
+    "question": "Who was the Vice-Chairman of the Drafting Committee?",
+    "options": [
+      "H.C. Mukherjee",
+      "V.T. Krishnamachari",
+      "No Vice Chairman",
+      "K.M. Munshi"
+    ],
+    "answer": "V.T. Krishnamachari",
+    "explanation": "The Drafting Committee, chaired by Dr. B.R. Ambedkar, did not have a designated Vice-Chairman. (Note : If you see V.T.Krishnamachari please tick that option, if you dont see the option - V.T.Krishnamachari then go for the none of the above"
+  },
+  {
+    "id": 31,
+    "question": "Working committee of congress inquired about framing of constitutional assembly in which year?",
+    "options": ["1934", "1935", "1940", "1946"],
+    "answer": "1934",
+    "explanation": "The Indian National Congress officially demanded a Constituent Assembly to frame the Constitution of India in 1934."
+  },
+  {
+    "id": 32,
+    "question": "The offer given by Lord lilinth in Shimla is also known as?",
+    "options": [
+      "August Offer or Wavell Plan",
+      "Cabinet Mission",
+      "Cripps Proposal",
+      "Mountbatten Plan"
+    ],
+    "answer": "August Offer or Wavell Plan",
+    "explanation": "The proposal made in 1940 by Viceroy Lord Linlithgow is known as the August Offer or Wavell Plan."
+  },
+  {
+    "id": 33,
+    "question": "Who was elected as the permanent President of the Constituent Assembly?",
+    "options": [
+      "Sachchidananda Sinha",
+      "Dr. Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar"
+    ],
+    "answer": "Dr. Rajendra Prasad",
+    "explanation": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly on December 11, 1946."
+  },
+  {
+    "id": 34,
+    "question": "The 'Objectives Resolution' was moved by whom in the Constituent Assembly?",
+    "options": [
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "explanation": "Jawaharlal Nehru moved the historic 'Objectives Resolution' on December 13, 1946."
+  },
+  {
+    "id": 35,
+    "question": "The 'Objectives Resolution' later became which part of the Constitution?",
+    "options": [
+      "Fundamental Rights",
+      "Directive Principles",
+      "The Preamble",
+      "Fundamental Duties"
+    ],
+    "answer": "The Preamble",
+    "explanation": "The Preamble to the Indian Constitution is based on the 'Objectives Resolution', drafted and moved by Pandit Nehru."
+  },
+  {
+    "id": 36,
+    "question": "Total number of members in the Constituent Assembly after partition was:",
+    "options": ["389", "299", "395", "284"],
+    "answer": "299",
+    "explanation": "After the partition of India, the membership of the Constituent Assembly was reduced to 299 from the original 389. (Please select one of the options either 299 or 296. If both are present, go with any option)"
+  },
+  {
+    "id": 37,
+    "question": "Muslim League boycotted the Constituent Assembly because?",
+    "options": [
+      "Demand for Pakistan",
+      "They opposed the British",
+      "They wanted more seats",
+      "They didn't support a written constitution"
+    ],
+    "answer": "Demand for Pakistan",
+    "explanation": "The Muslim League boycotted the meetings, insisting on their demand for a separate state of Pakistan."
+  },
+  {
+    "id": 38,
+    "question": "The Constituent Assembly adopted the Constitution on:",
+    "options": ["26 Jan 1950", "26 Nov 1949", "15 Aug 1947", "24 Jan 1950"],
+    "answer": "26 Nov 1949",
+    "explanation": "The Constitution was formally adopted by the Constituent Assembly on 26th November 1949."
+  },
+  {
+    "id": 39,
+    "question": "The Indian Constitution came into force on:",
+    "options": ["26 Nov 1949", "26 Jan 1950", "15 Aug 1947", "30 Jan 1950"],
+    "answer": "26 Jan 1950",
+    "explanation": "The Constitution came into full operation on 26th January 1950, celebrated as Republic Day."
+  },
+  {
+    "id": 40,
+    "question": "The date 26th January was specially chosen because:",
+    "options": [
+      "It was Independence Day",
+      "Purna Swaraj Day",
+      "Dr. Ambedkar's Birthday",
+      "End of British Rule"
+    ],
+    "answer": "Purna Swaraj Day",
+    "explanation": "26th January was chosen because on this day in 1930, the declaration of Indian Independence (Purna Swaraj) was proclaimed by INC."
+  },
+  {
+    "id": 41,
+    "question": "The Drafting Committee of the Constitution was formed on:",
+    "options": ["15 Aug 1947", "29 Aug 1947", "26 Jan 1948", "9 Dec 1946"],
+    "answer": "29 Aug 1947",
+    "explanation": "The drafting committee was set up on 29 August 1947 to prepare a Draft Constitution for India."
+  },
+  {
+    "id": 42,
+    "question": "Who was the Chairman of the Drafting Committee?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "Dr. Rajendra Prasad",
+      "Sardar Patel"
+    ],
+    "answer": "Dr. B.R. Ambedkar",
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is recognized as the 'Father of the Indian Constitution'."
+  },
+  {
+    "id": 43,
+    "question": "How many members were there in the Drafting Committee?",
+    "options": ["5", "7", "9", "11"],
+    "answer": "7",
+    "explanation": "The Drafting Committee consisted of 7 members, led by Dr. B.R. Ambedkar."
+  },
+  {
+    "id": 44,
+    "question": "Who replaced B.L. Mitter in the Drafting Committee?",
+    "options": [
+      "T.T. Krishnamachari",
+      "N. Madhava Rao",
+      "K.M. Munshi",
+      "Syed Mohammad Saadullah"
+    ],
+    "answer": "N. Madhava Rao",
+    "explanation": "N. Madhava Rao replaced B.L. Mitter who resigned from the total 7 member committee due to ill health."
+  },
+  {
+    "id": 45,
+    "question": "Who replaced D.P. Khaitan after his death?",
+    "options": [
+      "N. Madhava Rao",
+      "T.T. Krishnamachari",
+      "Alladi Krishnaswamy Ayyar",
+      "N. Gopalaswamy Ayyangar"
+    ],
+    "answer": "T.T. Krishnamachari",
+    "explanation": "T.T. Krishnamachari replaced D.P. Khaitan who passed away in 1948."
+  },
+  {
+    "id": 46,
+    "question": "In his last speech, Ambedkar warned against:",
+    "options": [
+      "Hero-worship in Politics",
+      "The Grammar of Anarchy",
+      "Political Democracy without Social Democracy",
+      "Hero-worship in Politics, The Grammar of Anarchy, Political Democracy without Social Democracy"
+    ],
+    "answer": "Hero-worship in Politics, The Grammar of Anarchy, Political Democracy without Social Democracy",
+    "explanation": "Dr. Ambedkar explicitly warned about unconstitutional methods (Grammar of Anarchy), Bhakti (Hero-worship in politics), and having political equality without social equality."
+  },
+  {
+    "id": 47,
+    "question": "Ambedkar described liberty, equality, and fraternity as:",
+    "options": [
+      "principles of life and the foundation of a social democracy/ Trinity",
+      "political slogans",
+      "Western concepts",
+      "irrelevant post-independence"
+    ],
+    "answer": "principles of life and the foundation of a social democracy/ Trinity",
+    "explanation": "He called them a trinity of principles that cannot be divorced from each other, forming the base of social democracy."
+  },
+  {
+    "id": 48,
+    "question": "The Drafting Committee prepared the draft in how many sittings?",
+    "options": ["114 Sittings", "141 Sittings", "299 Sittings", "395 Sittings"],
+    "answer": "141 Sittings",
+    "explanation": "The Drafting Committee sat for 141 sittings to prepare the draft of the Constitution."
+  },
+  {
+    "id": 49,
+    "question": "In his speeches, Ambedkar emphasized that political democracy must be accompanied by:",
+    "options": [
+      "military rule",
+      "social and economic democracy.",
+      "totalitarianism",
+      "capitalism"
+    ],
+    "answer": "social and economic democracy.",
+    "explanation": "He highlighted that political democracy (one man, one vote) is incomplete without establishing social and economic democracy."
+  },
+  {
+    "id": 50,
+    "question": "Ambedkar's vision of social democracy was based on which three principles?",
+    "options": [
+      "Liberty, Equality, and Fraternity.",
+      "Justice, Liberty, and Equality",
+      "Socialism, Secularism, and Republic",
+      "Rights, Duties, and Morals"
+    ],
+    "answer": "Liberty, Equality, and Fraternity.",
+    "explanation": "His vision was firmly rooted in the trinity of Liberty, Equality, and Fraternity."
+  },
+  {
+    "id": 51,
+    "question": "Right to vote is classified as a",
+    "options": [
+      "Fundamental Right",
+      "Constitutional Right",
+      "Natural Right",
+      "Moral Right"
+    ],
+    "answer": "Constitutional Right",
+    "explanation": "The right to vote is a Constitutional Right derived from Article 326 (adult suffrage) and not a Fundamental Right."
+  },
+  {
+    "id": 52,
+    "question": "Civil liberties differ from civil rights in that:",
+    "options": [
+      "Civil liberties are basic freedoms that protect individuals from undue government interference or action and Civil rights, in contrast, protect individuals from discrimination and ensure equal treatment under the law,",
+      "they are exactly the same",
+      "Civil liberties are only for citizens; Civil rights are for everyone",
+      "Civil rights are basic freedoms from government interference; Civil liberties protect from discrimination"
+    ],
+    "answer": "Civil liberties are basic freedoms that protect individuals from undue government interference or action and Civil rights, in contrast, protect individuals from discrimination and ensure equal treatment under the law,",
+    "explanation": "Civil liberties restrict what the government can do to you, while civil rights protect you from discriminatory treatment."
+  },
+  {
+    "id": 53,
+    "question": "The words 'We, the People of India' signify:",
+    "options": [
+      "The Constitution is supreme",
+      "the ultimate sovereignty resides with the people of India",
+      "The Parliament is supreme",
+      "The Judiciary is supreme"
+    ],
+    "answer": "the ultimate sovereignty resides with the people of India",
+    "explanation": "This phrase indicates that the ultimate power and sovereignty in India resides with its people."
+  },
+  {
+    "id": 54,
+    "question": "The term 'Justice – social, economic and political' in the Preamble is borrowed from:",
+    "options": [
+      "French Revolution",
+      "American Revolution",
+      "the Russian Revolution of 1917.",
+      "Irish Constitution"
+    ],
+    "answer": "the Russian Revolution of 1917.",
+    "explanation": "The specific ideals of social, economic, and political justice in the Preamble were inspired by the Russian Revolution."
+  },
+  {
+    "id": 55,
+    "question": "The Preamble describes India as a:",
+    "options": [
+      "a Sovereign, Socialist, Secular, Democratic, Republic",
+      "Sovereign, Democratic, Republic",
+      "Secular, Democratic, Socialist",
+      "Federal, Democratic, Republic"
+    ],
+    "answer": "a Sovereign, Socialist, Secular, Democratic, Republic",
+    "explanation": "The Preamble formally declares the nature of the Indian State as a Sovereign, Socialist, Secular, Democratic, and Republic."
+  },
+  {
+    "id": 56,
+    "question": "The 'Objectives Resolution' later became which part of the Constitution?",
+    "options": [
+      "Fundamental Rights",
+      "The Preamble",
+      "Directive Principles",
+      "Schedules"
+    ],
+    "answer": "The Preamble",
+    "explanation": "The Objectives Resolution drafted by Jawaharlal Nehru formed the basis for the Preamble."
+  }
+]
